@@ -1,0 +1,40 @@
+* {
+    font-family:'Cormorant Garamond', serif;
+    justify-content:center;
+    text-align: left;
+    margin-left: 0;
+    background-image: url(https://img.freepik.com/free-vector/abstract-paper-hexagon-white-background_51543-7.jpg?size=626&ext=jpg);
+    background-attachment: fixed;
+}
+
+
+
+img {
+    border: black solid 2px;
+}
+.box {
+background-color: #e3f2fd;
+height: 450px;
+width: 500px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+
+}
+.box1 
+{
+background-color:white;
+height: 450px;
+width: 500px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+}
+
+
+.jumbotron-fluid {
+    background-color: #e3f2fd;
+}
+
