@@ -9,7 +9,7 @@
 }
 h3 {
 
-<<<<<<< HEAD
+
     text-align: center;
     font-size: 30px;
 }
@@ -30,17 +30,12 @@ label, input {
 label {
     padding-right: 10px;
 }
-=======
-form.form-example {
-    display: table;
-}
->>>>>>> 5acd438908dc60aa215f455ab89b13215e54eb56
 
 div.form-example {
     display: table-row;
 }
 
-<<<<<<< HEAD
+
 .fixed-bottom {
     text-align: center;
 }
@@ -55,17 +50,8 @@ body{
 .lead {
     font-size: 40px;
 
-
-=======
-label, input {
-    display: table-cell;
-    margin-bottom: 10px;
 }
 
-label {
-    padding-right: 10px;
->>>>>>> 5acd438908dc60aa215f455ab89b13215e54eb56
-}
 
 .display-8 {
 
@@ -81,13 +67,13 @@ label {
  text-align: center;
  
 
-<<<<<<< HEAD
+
 }
 
 a {
     text-align: center;
 }
-=======
+
 img {
     border: black solid 2px;
 }
@@ -97,4 +83,4 @@ img {
 }
 
 
->>>>>>> 5acd438908dc60aa215f455ab89b13215e54eb56
+
