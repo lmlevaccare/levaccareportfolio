@@ -1,6 +1,6 @@
 # levaccareportfolio
-<<<<<<< HEAD
-=======
+
+
 #For the assigment I created the frame-work for my responsive portfolio.
 # This included my home/about me page, contact page, and portfolio/work page.
 
@@ -13,4 +13,4 @@
 
 #Still, the *contact form* on my contact page is inactive.
 #I plan to add the JS needed to activate in the coming weeks.
->>>>>>> 5acd438908dc60aa215f455ab89b13215e54eb56
+
