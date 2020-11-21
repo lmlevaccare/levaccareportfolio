@@ -9,6 +9,7 @@
 }
 h3 {
 
+<<<<<<< HEAD
     text-align: center;
     font-size: 30px;
 }
@@ -29,12 +30,17 @@ label, input {
 label {
     padding-right: 10px;
 }
+=======
+form.form-example {
+    display: table;
+}
+>>>>>>> 5acd438908dc60aa215f455ab89b13215e54eb56
 
-
-img {
-    border: black solid 2px;
+div.form-example {
+    display: table-row;
 }
 
+<<<<<<< HEAD
 .fixed-bottom {
     text-align: center;
 }
@@ -50,6 +56,15 @@ body{
     font-size: 40px;
 
 
+=======
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+>>>>>>> 5acd438908dc60aa215f455ab89b13215e54eb56
 }
 
 .display-8 {
@@ -66,8 +81,20 @@ body{
  text-align: center;
  
 
+<<<<<<< HEAD
 }
 
 a {
     text-align: center;
 }
+=======
+img {
+    border: black solid 2px;
+}
+
+.fixed-bottom {
+    text-align: center;
+}
+
+
+>>>>>>> 5acd438908dc60aa215f455ab89b13215e54eb56
