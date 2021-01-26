@@ -1,16 +1,14 @@
 # levaccareportfolio
 
+I created the frame-work for my responsive portfolio with semantic HTML.
 
-#For the assigment I created the frame-work for my responsive portfolio.
-# This included my home/about me page, contact page, and portfolio/work page.
 
-#I added my bio, name, self-images, and links to my email, github and linkedin. 
-#Also included semantic HTML.
+Included, are links to my email, github and linkedin. I also created a nav bar to direct the user to my portfolio page where they can view my work.
 
-#Further, I used HTML links and CSS to personalize page’s with added images, back-ground image and google fonts. 
-#I implemented code from Bootstrap’s responsive grid system’s, Jumbotron and nav-bar. 
+
+#To personalize the pages,I imported images for the back-ground; I used google-fonts for the text and implemented code from Bootstrap’s responsive grid system’s. 
 #My goal was to keep the page clean and “dry” as I plan to layer further content throughout the program.
 
-#Still, the *contact form* on my contact page is inactive.
-#I plan to add the JS needed to activate in the coming weeks.
+
+#I plan to add more project file links through-out the bootcamp timeframe.
 
